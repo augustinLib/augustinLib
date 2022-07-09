@@ -2,9 +2,12 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
+### Stack
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
 
-<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a
+
+
 
 - 👋 Hi, I’m @augustinLib
 - 👀 I’m interested in ... NLP, Data Science
