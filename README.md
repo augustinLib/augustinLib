@@ -46,6 +46,7 @@
   <img alt="VSCode" src ="https://img.shields.io/badge/VSCode-007ACC.svg?&style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img alt="Xcode" src ="https://img.shields.io/badge/Xcode-147EFB.svg?&style=flat-square&logo=Xcode&logoColor=white"/>
   <img alt="Anaconda" src ="https://img.shields.io/badge/Anaconda-44A833.svg?&style=flat-square&logo=Anaconda&logoColor=white"/>
+  <img alt="Conda_Forge" src ="https://img.shields.io/badge/Conda_Forge-000000.svg?&style=flat-square&logo=Conda-Forge&logoColor=white"/>
   
  
   <br><br>
