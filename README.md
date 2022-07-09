@@ -1,18 +1,18 @@
-<div align = "center"><h1> Hi  </h1>
+<div align = "center"><h1> ABOUT ME  </h1>
   I'm an undergraduate student majoring in Technology Management and Computer Engineering at Seoul National University of Science and Technology. I'm   interested in the ML/DL field, especially Natural Language Processing.
-</div>
+
   
   
-<div align = "center">
+
   <h2>Contact</h2> <br>
-   <a href="mailto:2bambitious@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
-   </a>
+  <a href="mailto:2bambitious@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
   
 </div>
 
 <div align = "center">
-  <h1>STACKS</h1> <br>
+  <h1>📚STACKS</h1> <br>
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
     <img alt="C++" src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
     <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
