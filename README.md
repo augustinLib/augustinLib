@@ -11,6 +11,9 @@
    <a href="mailto:2bambitious@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
    </a>
+   <a href="https://gbdai.tistory.com" target="_blank">
+   <img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/>
+   </a>
    <br><br>
 
 </div>
