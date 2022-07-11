@@ -14,6 +14,10 @@
    <a href="https://gbdai.tistory.com" target="_blank">
    <img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/>
    </a>
+   <a href="https://www.instagram.com/includelifelib" target="_blank">
+   <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
+   </a>
+  
    <br><br>
 
 </div>
