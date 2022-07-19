@@ -38,7 +38,7 @@
   <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white"/>
   
   
-  
+ 
   <br><br>
   *I am continuing to study, and additional stacks will be added*
   
