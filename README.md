@@ -36,6 +36,7 @@
   <br>
   <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white"/>
   <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit learn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white"/>
   
   
  
