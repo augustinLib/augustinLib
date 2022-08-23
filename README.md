@@ -1,3 +1,4 @@
+
 <div align = "center">
 
   # 🙋WHO AM I? 
@@ -17,7 +18,7 @@
    <a href="https://www.instagram.com/includelifelib" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
    </a>
-  
+    
    <br><br>
 
 </div>
@@ -72,10 +73,20 @@
   <br><br>
 </div>
 
+
+ <br><br>
+ 
+
+<div align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=augustinLib&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff" />
+  </a>
+</div>
+
+ <br><br>
+
 <div align = "center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FaugustinLib&count_bg=%2357D3CD&title_bg=%23D94D4D&icon=&icon_color=%23FB9999&title=Visit&edge_flat=false"/></a>
 </div>
-
-
 
 
