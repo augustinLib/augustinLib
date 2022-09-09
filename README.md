@@ -47,7 +47,7 @@
   
  
   <br><br>
-  *I am continuing to study, and additional stacks will be added*
+  *I'm continuing to study, so additional stacks will be added*
   
   <br>
 </div>
