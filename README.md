@@ -46,10 +46,16 @@
   <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=flat-square&logo=NumPy&logoColor=white"/>
   
  
-  <br><br>
-  *I'm continuing to study, so additional stacks will be added*
-  
   <br>
+  
+  ### 🤔 Now i'm studying these...
+  
+  <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat-square&logo=Go&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+  
+  <br><br>
 </div>
 
 <div align = "center">
@@ -67,6 +73,10 @@
   <img alt="Anaconda" src ="https://img.shields.io/badge/Anaconda-44A833.svg?&style=flat-square&logo=Anaconda&logoColor=white"/>
   <img alt="Conda_Forge" src ="https://img.shields.io/badge/Conda_Forge-000000.svg?&style=flat-square&logo=Conda-Forge&logoColor=white"/>
   <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
+  <br>
+  <img alt="GoLand" src ="https://img.shields.io/badge/GoLand-000000.svg?&style=flat-square&logo=GoLand&logoColor=white"/>
+  <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white"/>
+  <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/>
 
   
  
