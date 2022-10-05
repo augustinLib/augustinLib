@@ -78,9 +78,8 @@
   <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white"/>
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/>
 
-  
- 
   <br><br>
+  
 </div>
 
 
@@ -93,7 +92,6 @@
   <img alt="Apple Music" src ="https://img.shields.io/badge/Apple Music-000000.svg?&style=flat-square&logo=Apple Music&logoColor=white"/>
   <br><br>
 </div>
-
 
  <br><br>
  
