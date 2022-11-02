@@ -59,7 +59,6 @@
   <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white"/>
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
   
-  
   <br><br>
 </div>
 
