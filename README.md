@@ -83,22 +83,15 @@
   <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white"/>
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/>
 
-  <br><br>
+  <br>
   
 </div>
 
 
-<div align = "center">
+<br>
 
-  # ⚽HOBBY
-  <br>
-  <img alt="Photoshop" src ="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-  <img alt="Illustrator" src ="https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
-  <img alt="Apple Music" src ="https://img.shields.io/badge/Apple Music-000000.svg?&style=flat-square&logo=Apple Music&logoColor=white"/>
-  <br><br>
-</div>
 
-<br><br>
+<br>
  
 <div align = "center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
