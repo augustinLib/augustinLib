@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
    </a>
    <a href="https://gbdai.tistory.com" target="_blank">
-   <img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/>
    </a>
    <a href="https://www.instagram.com/includelifelib" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
@@ -45,9 +45,9 @@
   <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit learn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=flat-square&logo=NumPy&logoColor=white"/>
+  <br>
   <img alt="Plotly" src ="https://img.shields.io/badge/Plotly-3F4F75.svg?&style=flat-square&logo=Plotly&logoColor=white"/>
-  
-  
+  <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat-square&logo=Selenium&logoColor=white"/>
  
   <br>
   
