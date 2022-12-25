@@ -45,6 +45,7 @@
   <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit learn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=flat-square&logo=NumPy&logoColor=white"/>
+  <img alt="Plotly" src ="https://img.shields.io/badge/Plotly-3F4F75.svg?&style=flat-square&logo=Plotly&logoColor=white"/>
   
   
  
