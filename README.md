@@ -60,6 +60,8 @@
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white"/>
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
+  
   
   <br><br>
 </div>
