@@ -82,6 +82,7 @@
   <img alt="Conda_Forge" src ="https://img.shields.io/badge/Conda_Forge-000000.svg?&style=flat-square&logo=Conda-Forge&logoColor=white"/>
   <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
   <br>
+  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
   <img alt="GoLand" src ="https://img.shields.io/badge/GoLand-000000.svg?&style=flat-square&logo=GoLand&logoColor=white"/>
   <img alt="WebStorm" src ="https://img.shields.io/badge/WebStorm-000000.svg?&style=flat-square&logo=WebStorm&logoColor=white"/>
   <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white"/>
