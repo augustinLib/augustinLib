@@ -2,10 +2,8 @@
 
   # 🙋WHO AM I? 
   
-  I'm an undergraduate student <br>
-  majoring in Technology Management and Computer Engineering at Seoul National University of Science and Technology(SEOULTECH).<br>
-  I'm interested in the ML/DL field, especially **Natural Language Processing(NLP)**. <br>
-  
+  I'm interested in **Natural Language Processing(NLP)** <br>
+  These days, i'm studying Medical NLP in the SNUH BMI Lab. <br>
   
   if you want to contact me, see below and click button <br><br>
    <a href="mailto:2bambitious@gmail.com" target="_blank">
