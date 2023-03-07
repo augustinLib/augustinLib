@@ -3,6 +3,7 @@
   # 🙋WHO AM I? 
   
   I'm interested in **Natural Language Processing(NLP)** <br>
+  especially, interested in Retrieval-Augmented(RA) Language Model <br>
   These days, i'm studying Medical NLP in the SNUH BMI Lab. <br>
   
   if you want to contact me, see below and click button <br><br>
