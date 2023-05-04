@@ -46,6 +46,7 @@
   <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=flat-square&logo=NumPy&logoColor=white"/>
   <br>
+  <img alt="weights and biases" src ="https://img.shields.io/badge/weights and biases-FFBE00.svg?&style=flat-square&logo=Plotly&logoColor=white"/>
   <img alt="Plotly" src ="https://img.shields.io/badge/Plotly-3F4F75.svg?&style=flat-square&logo=Plotly&logoColor=white"/>
   <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat-square&logo=Selenium&logoColor=white"/>
   <img alt="Dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white"/>
