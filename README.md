@@ -16,6 +16,9 @@
    <a href="https://www.instagram.com/includelifelib" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
    </a>
+   <a href="https://www.linkedin.com/in/sang-am-lee-46a105203/" target="_blank">
+   <img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white"/>
+   </a>
    <a href="https://pouncing-healer-4e5.notion.site/Sangam-Lee-459bd7d32bdf443489998d5a09d8e310" target="_blank">
    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat-square&logo=Notion&logoColor=white"/>
    </a>
