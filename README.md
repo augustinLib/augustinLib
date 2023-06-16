@@ -1,6 +1,6 @@
 <div align = "center">
 
-  # 🙋WHO AM I? 
+  # 🙋WHO AM I?
 
   I'm interested in **Natural Language Processing(NLP)** <br>
   especially, interested in Retrieval-Augmented(RA) Language Model <br>
