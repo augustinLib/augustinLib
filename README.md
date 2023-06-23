@@ -13,9 +13,6 @@
    <a href="https://gbdai.tistory.com" target="_blank">
    <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/>
    </a>
-   <a href="https://www.instagram.com/includelifelib" target="_blank">
-   <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
-   </a>
    <a href="https://www.linkedin.com/in/sang-am-lee-46a105203/" target="_blank">
    <img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white"/>
    </a>
