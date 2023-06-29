@@ -4,7 +4,7 @@
 
   I'm interested in **Natural Language Processing(NLP) and Information Retrieval(IR)** <br>
   especially, interested in Retrieval-Augmented(RA) Language Model <br>
-  These days, i'm studying Medical NLP in the SNUH BMI Lab. <br>
+  These days, i'm studying NLP in the SNUH BMI Lab. <br>
   
   if you want to contact me, see below and click button <br><br>
    <a href="mailto:2bambitious@gmail.com" target="_blank">
