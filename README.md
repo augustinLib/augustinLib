@@ -3,7 +3,7 @@
   # 🙋WHO AM I?
 
   I'm interested in **Natural Language Processing(NLP) and Information Retrieval(IR)** <br>
-  especially, interested in Retrieval-Augmented(RA) Language Model and Parameter-Efficient Fine-Tuning <br>
+  especially, interested in **Retrieval-Augmented(RA) Language Model** and **Parameter-Efficient Fine-Tuning(PEFT)** <br>
   
   
   if you want to contact me, see below and click button <br><br>
