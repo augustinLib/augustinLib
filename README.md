@@ -7,7 +7,7 @@
 
   
   if you want to contact me, see below and click button <br><br>
-   <a href="mailto:2bambitious@gmail.com" target="_blank">
+   <a href="mailto:salee.public@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
    </a>
    <a href="https://gbdai.tistory.com" target="_blank">
