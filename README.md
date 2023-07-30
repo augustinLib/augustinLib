@@ -13,7 +13,7 @@
    <a href="https://gbdai.tistory.com" target="_blank">
    <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/>
    </a>
-   <a href="www.linkedin.com/in/sangam-lee-46a105203/" target="_blank">
+   <a href="https://www.linkedin.com/in/sangam-lee-46a105203/" target="_blank">
    <img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://pouncing-healer-4e5.notion.site/Sangam-Lee-459bd7d32bdf443489998d5a09d8e310" target="_blank">
