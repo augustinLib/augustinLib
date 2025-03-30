@@ -1,6 +1,6 @@
 <div >
 
-  # 🙋 Toward the Next Generation Information Retrieval
+  # ⭐️ Toward the Next Generation of Information Retrieval
 
   I'm a Ph.D. student at Yonsei University, advised by Professor Dongha Lee.
   <br>
